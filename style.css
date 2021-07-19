@@ -1,0 +1,179 @@
+.imag_principal{
+    top: 25px;
+  left: 22px;
+  width: 883px;
+  height: 374px;
+  border: 1px solid #707070;
+  opacity: 1
+  }
+  h1 {
+    top: 420px;
+    left: 21px;
+    width: 884px;
+    height: 187px;
+    text-align: left;
+    font: normal normal 900 89px/79px Montserrat;
+    letter-spacing: 0px;
+    color: #ffb300;
+    opacity: 1;
+  }
+  .autora{
+    top: 617px;
+  left: 21px;
+  width: 884px;
+  height: 28px;
+  text-align: right;
+  font: normal normal bold 21px/34px Montserrat;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  }
+  .sub_titulo{op: 1117px;
+  left: 21px;
+  width: 235px;
+  height: 42px;
+  text-align: left;
+  font: normal normal 900 34px/42px Montserrat;
+  letter-spacing: 0px;
+  color: #FFB300;
+  opacity: 1;}
+  .conteudo{
+    top: 679px;
+  left: 21px;
+  width: 883px;
+  height: 100px;
+    text-align: left;
+  font: normal normal 600 21px/34px Montserrat;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  }
+  .preparo{
+    op: 965px;
+  left: 21px;
+  width: 258px;
+  height: 25px;
+  text-align: left;
+  letter-spacing: 1px;
+  color: #000000;
+  opacity: 1;
+  }
+  .rendimento{top: 1024px;
+  left: 21px;
+  width: 302px;
+  height: 25px;
+  text-align: left;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  }
+  .ingredientes{
+    top: 1117px;
+  left: 21px;
+  width: 235px;
+  height: 42px;
+  text-align: left;
+  font: normal normal 900 34px/42px Montserrat;
+  letter-spacing: 0px;
+  color: #FFB300;
+  opacity: 1;  
+  }
+  .ingrediente__cantidade{
+    top: 1179px;
+  left: 96px;
+  width: 753px;
+  height: 440px;
+  text-align: left;
+  font: normal normal 600 21px/34px Montserrat;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  }
+  .modo__preparo{
+    top: 1599px;
+  left: 21px;
+  width: 315px;
+  height: 42px;
+  text-align: left;
+  font: normal normal 900 34px/42px Montserrat;
+  letter-spacing: 0px;
+  color: #FFB300;
+  opacity: 1;
+  }
+  .conteudo__secundario{
+    top: 1179px;
+  left: 96px;
+  width: 753px;
+  height: 315px;
+  text-align: left;
+  font: normal normal 600 21px/34px Montserrat;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  }
+  .conteudo__terciario{
+    top: 1599px;
+  left: 21px;
+  width: 315px;
+  height: 42px;
+  text-align: left;
+  font: normal normal 900 34px/42px Montserrat;
+  letter-spacing: 0px;
+  color: #FFB300;
+  opacity: 1;
+  }
+  .texto{
+    top: 679px;
+  left: 21px;
+  width: 883px;
+  height: 130px;
+  text-align: left;
+  font: normal normal 600 21px/34px Montserrat;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  }
+  .texto__montagem{
+    top: 1117px;
+  left: 21px;
+  width: 235px;
+  height: 42px;
+  text-align: left;
+  font: normal normal 900 34px/42px Montserrat;
+  letter-spacing: 0px;
+  color: #FFB300;
+  opacity: 1;
+  }
+  .conteudo__montagem{
+    top: 679px;
+  left: 21px;
+  width: 883px;
+  height: 115px;
+  text-align: left;
+  font: normal normal 600 21px/34px Montserrat;
+  letter-spacing: 0px;
+  color: #000000;
+  opacity: 1;
+  }
+  .video{
+    top: 2123px;
+  left: 21px;
+  width: 440px;
+  height: 42px;
+  text-align: left;
+  font: normal normal 900 34px/42px Montserrat;
+  letter-spacing: 0px;
+  color: #FFB300;
+  opacity: 1;
+  }
+  .formato__video{
+    top: 2200px;
+  left: 22px;
+  width: 883px;
+  height: 497px;
+  border: 1px solid #707070;
+  opacity: 1;
+  }
+  
+  
+  
